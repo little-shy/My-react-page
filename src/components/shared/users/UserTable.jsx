@@ -1,5 +1,5 @@
 import UserDeleteConfirmation from "./user-delete-confirmation";
-import UserStatusConfirmation from "./UserStatusConfirmation";
+import UserStatusConfirmation from "./user-status-confirmation";
 import { Trash2 } from "lucide-react";
 import { useState } from "react";
 import {
